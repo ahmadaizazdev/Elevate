@@ -17,7 +17,7 @@ rich text editing, and one‑click PDF export.
     Choose a template, edit every section, and export a polished, ATS‑friendly PDF all in minutes.
   </p>
   <br />
-  <a href="https://github.com/ahmadaizazdev/Elevate">
+  <a href="https://ahmadaizazdev.github.io/Elevate/">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-Click_Here-6c4cf1?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
   &nbsp;
