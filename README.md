@@ -36,9 +36,9 @@ rich text editing, and one‑click PDF export.
 
 ## 🚀 Live Demo
 
-> **👉 [Try Elevate Now](https://github.com/ahmadaizazdev/Elevate)** — Build your resume in minutes, right in your browser.
+> **👉 [Try Elevate Now](https://ahmadaizazdev.github.io/Elevate/)** — Build your resume in minutes, right in your browser.
 
-[![Live Demo Banner](https://img.shields.io/badge/🚀_Launch_Elevate-6c4cf1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4a4756)](https://github.com/ahmadaizazdev/Elevate)
+[![Live Demo Banner](https://img.shields.io/badge/🚀_Launch_Elevate-6c4cf1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4a4756)](https://ahmadaizazdev.github.io/Elevate/)
 
 <br />
 
